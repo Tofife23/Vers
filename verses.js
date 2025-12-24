@@ -784,7 +784,7 @@ const verses = [
     ref: "Matouš 11,15"
   },
   {
-    text: "Lépe jest dáti nežli bráti.",
+    text: "Blahoslavenější jest dáti nežli bráti.",
     ref: "Skutky 20,35"
   },
   {
@@ -1079,4 +1079,5 @@ const verses = [
     text: "Slova, kteráž já mluvím vám, Duch jsou a život jsou.",
     ref: "Jan 6,63"
   },
+
 ]
